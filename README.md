@@ -1,6 +1,5 @@
 <div align="center">
 
-![Bombero Máximo Trayan](Bombero_maximo_trayan.png)
 
 # Calculadora Java — Proyecto Colaborativo
 
@@ -80,7 +79,6 @@ jobs:
 
 <div align="center">
 
-![Cartel](Bombero_maximo_trayan.png)
 
 </div>
 
